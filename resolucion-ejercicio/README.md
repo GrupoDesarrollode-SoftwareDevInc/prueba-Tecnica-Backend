@@ -2,14 +2,12 @@
 
 **Directrices:**
 
-- Usted debe resolver el ejercicio en el archivo **src/main.ts** para que este pueda ejecutar la resolucion del problema con el comando “npm start”.
-
-- Usted solo debe modificar el archivo **src/main.ts,** en caso de modificar algún otro archivo se anulará la resolucion del ejercicio
-
+- Usted debe resolver el ejercicio en el archivo **src/main.ts** para que este pueda ejecutar la resolución del problema con el comando “npm start”.
+- Usted solo debe modificar el archivo **src/main.ts,** en caso de modificar algún otro archivo se anulará la resolución del ejercicio
 - Las configuraciones del linter no deben dar ningún error
-- En el archivo usted hallara la funcion "**solucion**", debe solamente completar su ejercicio en esta
-- En el archivo **testCase.ts** estaran los casos de prueba, su ejercicio debe dar **true** en estos 3 casos de prueba
-- no se permiten variable de tipo **any** asi que debes tipar todas tus variables segun corresponda
+- En el archivo usted hallará la función "**solución**", debe solamente completar su ejercicio en esta
+- En el archivo **testCase.ts** estarán los casos de prueba, su ejercicio debe dar **true** en estos 3 casos de prueba
+- no se permiten variable de tipo **any** así que debes tipar todas tus variables según corresponda
 
 ## Explicacion del ejercicio
 
