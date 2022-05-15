@@ -7,9 +7,9 @@
 - Las configuraciones del linter no deben dar ningún error
 - En el archivo usted hallará la función "**solución**", debe solamente completar su ejercicio en esta
 - En el archivo **testCase.ts** estarán los casos de prueba, su ejercicio debe dar **true** en estos 3 casos de prueba
-- no se permiten variable de tipo **any** así que debes tipar todas tus variables según corresponda
+- No se permiten variable de tipo **any** así que debes tipar todas tus variables según corresponda
 
-## Explicacion del ejercicio
+## Explicación del ejercicio
 
 Dados cinco enteros positivos, encuentre los valores mínimo y máximo que se pueden calcular sumando exactamente cuatro de los cinco enteros. Luego imprima los respectivos valores mínimo y máximo como una sola línea de dos enteros largos separados por espacios.
 
