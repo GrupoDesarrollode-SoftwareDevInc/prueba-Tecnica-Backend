@@ -8,9 +8,9 @@
 - Para que su solución pueda ser aceptada totalmente debe ejecutarse sin problemas con el comando npm start
 - Las configuraciones del linter no deben dar ningún error
 - No se permiten variable de tipo any asi que debes tipar todas tus variables según corresponda
-- Para resolver el ejercicio de la mejor manera consideré que la base de datos está en cero
+- Para resolver el ejercicio de la mejor manera considere que la base de datos está en cero
 - El proyecto debe correr sin ningún problema en cualquier entorno
-- Se proporcionara una base de código, si usted considera que este está mal hecho, mal estructurado o que se podría optimizar tiene completa disposición para cambiarlo, siempre y cuando no entre en conflicto con los puntos anteriores
+- Se proporcionará una base de código, si usted considera que este está mal hecho, mal estructurado o que se podría optimizar tiene completa disposición para cambiarlo, siempre y cuando no entre en conflicto con los puntos anteriores
 - Si considera que la estructura de carpetas está mal hecha puede cambiarla
 (opcional) Para esta parte de la prueba técnica dentro de la carpeta src dejar un archivo readme donde explique de manera sencilla como soluciono los problemas dados
 
@@ -26,8 +26,8 @@
 
 ## Explicacion del ejercicio
 
-Usted debe contruir una API que haga uso de una base de datos no relacional(MongoDB).
-Se dispondra de 2 schemas: **usuarios** y **posts**
+Usted debe construir una API que haga uso de una base de datos no relacional(MongoDB).
+Se dispondrá de 2 schemas: **usuarios** y **posts**
 
 **Las funcionalidades para usuarios seran:**
 
@@ -48,4 +48,4 @@ Se dispondra de 2 schemas: **usuarios** y **posts**
 - Las respuestas de la api deben mantener una misma estructura
 - Los codigos de respuesta deben ser los adecuados para cada situacion
 
-**Nota:** Ten en cuenta practicas de seguridad si las conoces. Si necesitas instalar un modulo que necesites consultalo al entrevistador.
+**Nota:** Ten en cuenta prácticas de seguridad si las conoces. Si necesitas instalar un módulo que necesites consúltalo al entrevistador.
