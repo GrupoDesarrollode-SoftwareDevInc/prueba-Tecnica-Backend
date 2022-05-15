@@ -2,17 +2,17 @@
 
 **Directrices:**
 
-- Usted debe crear una api con typescript usando las mejores practicas de codigo y una estructura basada en DDD
-- Se dara una base de codigo sobre el cual usted debera escribir y resolver los requerimentos
-- Usted No puede modificar los archivos fuera de la carpeta **src**
-- Para que su solucion pueda ser aceptada totalmente debe ejecutarse sin problemas con el comando **npm start**
+- Usted debe crear una api con typescript usando las mejores prácticas de código y una estructura basada en DDD
+- Se dará una base de código sobre el cual usted deberá escribir y resolver los requerimientos
+- Usted No puede modificar los archivos fuera de la carpeta src
+- Para que su solución pueda ser aceptada totalmente debe ejecutarse sin problemas con el comando npm start
 - Las configuraciones del linter no deben dar ningún error
-- no se permiten variable de tipo **any** asi que debes tipar todas tus variables segun corresponda
-- Para resolver el ejercicio de la mejor manera considere que la base de datos esta en cero
-- El proyecto debe correr sin ningun problema en cualquier entorno
-- Se proporcionara una base de codigo, si usted considera que este esta mal hecho, mal estructurado o que se podria optimizar tiene completa disposicion para cambiarlo, siempre y cuando no entre en conflicto con los puntos anteriores
-- si considera que la estructura de carpetas esta mal hecha puede cambiarla
-- **(opcional)** Para esta parte de la prueba tecnica dentro de la carpeta **src** dejar un archivo readme donde explique de manera sencilla como soluciono los problemas dados
+- No se permiten variable de tipo any asi que debes tipar todas tus variables según corresponda
+- Para resolver el ejercicio de la mejor manera consideré que la base de datos está en cero
+- El proyecto debe correr sin ningún problema en cualquier entorno
+- Se proporcionara una base de código, si usted considera que este está mal hecho, mal estructurado o que se podría optimizar tiene completa disposición para cambiarlo, siempre y cuando no entre en conflicto con los puntos anteriores
+- Si considera que la estructura de carpetas está mal hecha puede cambiarla
+(opcional) Para esta parte de la prueba técnica dentro de la carpeta src dejar un archivo readme donde explique de manera sencilla como soluciono los problemas dados
 
 **requerimentos tecnicos obligatorios**
 
