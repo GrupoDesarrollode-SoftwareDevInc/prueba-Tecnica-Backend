@@ -29,7 +29,7 @@
 Usted debe contruir una API que haga uso de una base de datos no relacional(MongoDB).
 Se dispondra de 2 schemas: **usuarios** y **posts**
 
-**Las funcionalidades para usarios seran:**
+**Las funcionalidades para usuarios seran:**
 
 - Un login que haga uso de las practicas de JWT y passport
 - Un register de usuarios
