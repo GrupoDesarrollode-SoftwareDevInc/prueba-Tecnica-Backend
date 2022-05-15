@@ -14,7 +14,7 @@
 - Si considera que la estructura de carpetas está mal hecha puede cambiarla
 (opcional) Para esta parte de la prueba técnica dentro de la carpeta src dejar un archivo readme donde explique de manera sencilla como soluciono los problemas dados
 
-**requerimentos tecnicos obligatorios**
+**Requerimentos técnicos obligatorios**
 
 - passport
 - typescript
@@ -24,28 +24,28 @@
 - bcrypt
 - express
 
-## Explicacion del ejercicio
+## Explicación del ejercicio
 
 Usted debe construir una API que haga uso de una base de datos no relacional(MongoDB).
 Se dispondrá de 2 schemas: **usuarios** y **posts**
 
-**Las funcionalidades para usuarios seran:**
+**Las funcionalidades para usuarios serán:**
 
-- Un login que haga uso de las practicas de JWT y passport
+- Un login que haga uso de las prácticas de JWT y passport
 - Un register de usuarios
-- El modelo de usuario queda a su criterio, pero es obligatiorio que tengan: name, email, password. Puede añadir parametros a su conveniencia
+- El modelo de usuario queda a su criterio, pero es obligatiorio que tengan: name, email, password. Puede añadir parámetros a su conveniencia
 
-**Las funcionalidades para postsseran:**
+**Las funcionalidades para posts serán:**
 
 - Los usuarios pueden crear post y leerlos
 - si no eres el autor de post no puedes leerlo
 - **(opcional)** borrar post
 - **(opcional)** editar post
-- El modelo de posts queda a su criterio, pero es obligatiorio que tengan: titulo, autor, descripcion, contenido. Puede añadir parametros a su conveniencia
+- El modelo de posts queda a su criterio, pero es obligatiorio que tengan: titulo, autor, descripcion, contenido. Puede añadir parámetros a su conveniencia
 
 **Cosas a tener en cuenta**
 
 - Las respuestas de la api deben mantener una misma estructura
-- Los codigos de respuesta deben ser los adecuados para cada situacion
+- Los códigos de respuesta deben ser los adecuados para cada situación
 
 **Nota:** Ten en cuenta prácticas de seguridad si las conoces. Si necesitas instalar un módulo que necesites consúltalo al entrevistador.
